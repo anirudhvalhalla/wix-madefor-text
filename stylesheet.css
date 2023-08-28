@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-Bold.eot');
+    src: url('WixMadeforText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-Bold.woff2') format('woff2'),
+        url('WixMadeforText-Bold.ttf') format('truetype'),
+        url('WixMadeforText-Bold.svg#WixMadeforText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-SemiBoldItalic.eot');
+    src: url('WixMadeforText-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-SemiBoldItalic.woff2') format('woff2'),
+        url('WixMadeforText-SemiBoldItalic.ttf') format('truetype'),
+        url('WixMadeforText-SemiBoldItalic.svg#WixMadeforText-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-BoldItalic.eot');
+    src: url('WixMadeforText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-BoldItalic.woff2') format('woff2'),
+        url('WixMadeforText-BoldItalic.ttf') format('truetype'),
+        url('WixMadeforText-BoldItalic.svg#WixMadeforText-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-SemiBold.eot');
+    src: url('WixMadeforText-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-SemiBold.woff2') format('woff2'),
+        url('WixMadeforText-SemiBold.ttf') format('truetype'),
+        url('WixMadeforText-SemiBold.svg#WixMadeforText-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-Italic.eot');
+    src: url('WixMadeforText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-Italic.woff2') format('woff2'),
+        url('WixMadeforText-Italic.ttf') format('truetype'),
+        url('WixMadeforText-Italic.svg#WixMadeforText-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Text';
+    src: url('WixMadeforText-Regular.eot');
+    src: url('WixMadeforText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('WixMadeforText-Regular.woff2') format('woff2'),
+        url('WixMadeforText-Regular.ttf') format('truetype'),
+        url('WixMadeforText-Regular.svg#WixMadeforText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
